@@ -1,0 +1,14 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.cloudairy/cloudairy",
+  "description": "Preview diagrams in chat and save them as editable Cloudairy boards; read and search your boards.",
+  "title": "Cloudairy",
+  "version": "1.0.0",
+  "websiteUrl": "https://cloudairy.com/mcp",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.cloudairy.com/mcp"
+    }
+  ]
+}

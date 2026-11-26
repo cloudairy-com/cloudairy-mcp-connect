@@ -1,0 +1,20 @@
+{
+  "name": "cloudairy",
+  "version": "1.0.0",
+  "description": "Preview diagrams in chat and save them as editable Cloudairy boards; read and search your boards.",
+  "author": {
+    "name": "Cloudairy LLC",
+    "email": "support@cloudairy.com"
+  },
+  "homepage": "https://cloudairy.com/mcp",
+  "license": "MIT",
+  "keywords": [
+    "diagrams",
+    "flowchart",
+    "architecture",
+    "whiteboard",
+    "mcp"
+  ],
+  "logo": "assets/cloudairy-logo.svg",
+  "repository": "https://github.com/cloudairy-com/cloudairy-mcp-connect"
+}
