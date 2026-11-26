@@ -124,7 +124,8 @@ Or add to `~/.gemini/settings.json`:
 {
   "mcpServers": {
     "cloudairy": {
-      "httpUrl": "https://mcp.cloudairy.com/mcp"
+      "url": "https://mcp.cloudairy.com/mcp",
+      "type": "http"
     }
   }
 }

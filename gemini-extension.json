@@ -1,10 +1,11 @@
 {
   "name": "cloudairy-mcp-connect",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Preview diagrams in chat and save them as editable Cloudairy boards; read and search your boards.",
   "mcpServers": {
     "cloudairy": {
-      "httpUrl": "https://mcp.cloudairy.com/mcp"
+      "url": "https://mcp.cloudairy.com/mcp",
+      "type": "http"
     }
   }
 }
