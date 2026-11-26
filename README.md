@@ -153,9 +153,9 @@ Or use the install link:
 
 ### Cline
 
-In the Cline panel open **MCP Servers > Configure > Remote Servers**, enter the name `cloudairy` and the URL `https://mcp.cloudairy.com/mcp`, choose **Streamable HTTP**, and click **Add Server**.
+In the Cline panel open **Customize > MCP** and click **Add Remote Server** (older versions: **MCP Servers > Configure > Remote Servers**). Enter the name `cloudairy` and the URL `https://mcp.cloudairy.com/mcp`, choose **Streamable HTTP**, and add the server. Then click **Authenticate** on the `cloudairy` row and approve the sign-in in your browser.
 
-Or add to `cline_mcp_settings.json`:
+Or add to `cline_mcp_settings.json` (**Customize > MCP > Edit Configuration**; the file is at `~/.cline/data/settings/cline_mcp_settings.json`):
 
 ```json
 {

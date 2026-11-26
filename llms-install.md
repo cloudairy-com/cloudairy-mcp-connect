@@ -12,7 +12,7 @@ Cloudairy is a hosted remote MCP server. Do not clone this repository, install p
 
 ## Steps for Cline
 
-1. Open the Cline MCP settings file `cline_mcp_settings.json` (in the IDE: MCP Servers > Configure > Configure MCP Servers; in the CLI: `~/.cline/data/settings/cline_mcp_settings.json`).
+1. Open the Cline MCP settings file `cline_mcp_settings.json` (in the IDE: Customize > MCP > Edit Configuration, or in older versions MCP Servers > Configure > Configure MCP Servers; the file is at `~/.cline/data/settings/cline_mcp_settings.json`).
 2. Add this entry under `mcpServers`. Keep every existing entry unchanged.
 
 ```json
